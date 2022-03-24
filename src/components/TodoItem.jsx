@@ -4,8 +4,6 @@ import { TodoTextInput } from './TodoTextInput'
 import { useTodo } from '../useTodo'
 import { motion } from 'framer-motion'
 
-const el_costo_de_framer_motion = 0
-
 const variants = {
   hidden: {
     opacity: 0
